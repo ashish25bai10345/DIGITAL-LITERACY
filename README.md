@@ -3,7 +3,7 @@ Reg. No.-25BAI10345
 # Digital-Literacy
 Shows my online presence on multiple social platform and provide information about digital security
 ## Project overview
-project created for CSE0001 digital literacy course in VIT Bhopal My self Ashish Rawat reg. No. is 25BAI10345 
+project created for CSE0001 digital literacy course in VIT Bhopal My self Ashish Rawat Reg. No. is 25BAI10345 
 This repository aims to understand about digital platform digital security and my social media presence
 ## task
 ### Task 1 (intro about digital literacy)
